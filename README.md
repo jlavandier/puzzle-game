@@ -1,6 +1,6 @@
 <h1>Puzzle Game</h1>
 
-- Demo: 
+- Demo: https://jlavandier.github.io/puzzle-game/
 
 - This puzzle do the next things, write click handlers to drag and drop puzzle pieces onto the board, and keep track of the number of turns the player has taken to solve the puzzle.
 
